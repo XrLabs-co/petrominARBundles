@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1091610652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 119e3a68e976401e905529793670f04c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5dcdd164a4b713cc343c6b29206ecc78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ce6e91fc15dc44449bded5fcac07d2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/Patrol_Black (KH3).png
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/Patrol_Metallic Slate (KAD).png
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/Patrol_Silver (K23).png
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/Patrol_Hermosa Blue (BW5).png
+- Assets/Petromin Cars/Patrol/Prefab/Patrol.prefab
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/Patrol_Gold Beige (HAJ).png
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/Patrol_White Pearl (QAC).png
+- Assets/Petromin Cars/Patrol/Texture/Body Variation/g2body_Brown_Albedo.png
+Dependencies: []
