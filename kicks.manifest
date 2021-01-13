@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1912280914
+CRC: 1200505199
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e88f5aa5597b1815caed3db3e59d1cbc
+    Hash: 9f6d009867d1608486c9e51c720ad18a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5eaa41f35dfc221eef116c90f1536df8
+    Hash: 5dcdd164a4b713cc343c6b29206ecc78
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,7 +25,25 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
 - Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ce6e91fc15dc44449bded5fcac07d2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 Assets:
 - Assets/Petromin Cars/Kicks/Textures/Body Variation/Kicks_Silver (K23).jpg
