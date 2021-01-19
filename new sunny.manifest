@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1521882859
+CRC: 3319125608
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: acd51a9966ff1525345f0e093bd74396
+    Hash: a7920260e1bcd397dc66da0c45356e70
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5dcdd164a4b713cc343c6b29206ecc78
@@ -48,10 +48,10 @@ ClassTypes:
 Assets:
 - Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Radiant Red.png
 - Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Electric Blue Metallic.png
-- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Gun metallic.png
-- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Aspen White tricoat.png
-- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Solid Black.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Gun Metallic.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Aspen White Tricoat.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Super Black.png
 - Assets/Petromin Cars/Sunny/Prefab/New Sunny.prefab
 - Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Brilliant Silver Metallic.png
-- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Scarlet Embert Tintcoat.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Scarlet Ember Tintcoat.png
 Dependencies: []
