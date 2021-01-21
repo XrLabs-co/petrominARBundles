@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1190838590
+CRC: 922933689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6cb6dabcbab88f5ce90973f3a7bf1012
+    Hash: c9008450a2d45bd17a0afd8d82560f35
   TypeTreeHash:
     serializedVersion: 2
     Hash: 204b0d2e9d34e2c7f5936022718f5a73
@@ -42,10 +42,10 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Petromin Cars/Altima/Textures/Body Variation/Altima_Pearl Blue (RAY).png
-- Assets/Petromin Cars/Altima/Textures/Body Variation/Altima_Pearl White (QAB).png
-- Assets/Petromin Cars/Altima/Textures/Body Variation/Altima_Black (KH3).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Black (KH3).png
 - Assets/Petromin Cars/Altima/Prefab/Altima.prefab
-- Assets/Petromin Cars/Altima/Textures/Body Variation/Altima_Silver (K23).png
-- Assets/Petromin Cars/Altima/Textures/Body Variation/Altima_Gun Metallic Grey (KAD).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Pearl Blue (RAY).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Pearl White (QAB).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Silver (K23).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Gun Metallic Grey (KAD).png
 Dependencies: []
