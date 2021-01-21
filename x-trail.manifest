@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 912648046
+CRC: 629165417
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77e596949cc2dcc81ff7f4b9106ebdaf
+    Hash: e36816e1a793e57a4ead9ca4279a74ec
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5dcdd164a4b713cc343c6b29206ecc78
@@ -46,15 +46,15 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Black (G41)_Back.jpg
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_White (QAB).png
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Dark Brown (CAS)_Back.jpg
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Gray (KAD)_Back.jpg
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Silver (K23)_Back.jpg
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Silver (K23).png
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Dark Brown (CAS).png
-- Assets/Petromin Cars/X Trail/Prefab/X-Trail.prefab
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Black (G41).png
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_Gray (KAD).png
-- Assets/Petromin Cars/X Trail/Texture/Body Variation/X-Trail_White (QAB)_Back.jpg
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Gray (KAD)_Back.jpg
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Black (G41)_Back.jpg
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_White (QAB)_Back.jpg
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Dark Brown (CAS).png
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Silver (K23)_Back.jpg
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Dark Brown (CAS)_Back.jpg
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Gray (KAD).png
+- Assets/Petromin Cars/X trail/Prefab/X-Trail.prefab
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_White (QAB).png
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Black (G41).png
+- Assets/Petromin Cars/X trail/Texture/Body Variation/X-Trail_Silver (K23).png
 Dependencies: []
