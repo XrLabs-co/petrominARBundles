@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2110437624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0cbdfecd8d8580665724a5c7261c62e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 204b0d2e9d34e2c7f5936022718f5a73
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Radiant Red.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Electric Blue Metallic.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Gun Metallic.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Aspen White Tricoat.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Super Black.png
+- Assets/Petromin Cars/Sunny/Prefab/New Sunny.prefab
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Brilliant Silver Metallic.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Scarlet Ember Tintcoat.png
+Dependencies: []

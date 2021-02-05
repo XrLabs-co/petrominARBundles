@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3816985705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70b30c60c717a094e84cd1356d49bad7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 204b0d2e9d34e2c7f5936022718f5a73
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Grey (KAD).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Silver (K23).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_White (QAC).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Black (KH3).png
+- Assets/Petromin Cars/Kicks/Prefab/Kicks.prefab
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Deep Blue Pearl (RAY).png
+Dependencies: []
