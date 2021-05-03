@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 970591725
+CRC: 203209793
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 32bcd0a9e76e0a0404219ec866e903d1
+    Hash: 760c9fe43f2c6a3c1e9922ed5dd05555
   TypeTreeHash:
     serializedVersion: 2
     Hash: 204b0d2e9d34e2c7f5936022718f5a73
@@ -47,5 +47,5 @@ Assets:
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_White (QAC).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Black (KH3).png
 - Assets/Petromin Cars/Kicks/Prefab/Kicks.prefab
-- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Deep Blue Pearl (RAY).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Deep Blue pearl (RAY).png
 Dependencies: []
