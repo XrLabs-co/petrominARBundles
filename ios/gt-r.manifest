@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3364577937
+CRC: 858556852
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f92d4831aac3a0d72163b4f4ad220d77
+    Hash: 85dbf160a9fff4c01681d78881713514
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a304d2a8654b5e18c2c4dd2b28ec3905
+    Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,10 +33,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 9ce6e91fc15dc44449bded5fcac07d2c, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
 - Class: 212
@@ -44,13 +40,5 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Solid Red.png
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Gun Metallic.png
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Jetblack Pearl.png
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Bayside Blue.png
 - Assets/Petromin Cars/Nissan GTR/Prefab/GT-R.prefab
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Super Silver Quad
-  Coat.png
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Katsura Orange.png
-- Assets/Petromin Cars/Nissan GTR/Textures/Body Variation/GT-R_Pearl White Tri Coat.png
 Dependencies: []
