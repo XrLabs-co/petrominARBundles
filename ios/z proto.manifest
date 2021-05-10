@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 206158974
+CRC: 3768656279
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 091129faa66662fcd3489676d03d8622
+    Hash: d29faaed4bb221a22d473c6c1090002c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
@@ -40,5 +40,5 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Petromin Cars/Z-Proto/Prefab/ios/Z Proto.prefab
+- Assets/Petromin Cars/Z-Proto/Prefab/Android/Z Proto.prefab
 Dependencies: []
