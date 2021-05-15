@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2239079893
+CRC: 3151073514
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 57934f3eaae7e0c54b1b48994420ebf6
+    Hash: 59ae993778c13ce2c7ab3f465afd012e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
@@ -40,10 +40,16 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/Petromin Cars/X trail/Textures/Body Variation/Orange (EBB).png
+- Assets/Petromin Cars/X trail/Textures/Body Variation/Gold Beige (HAS).png
 - Assets/Petromin Cars/X trail/Textures/Body Variation/X-Trail_Silver (K23).png
 - Assets/Petromin Cars/X trail/Prefab/X-Trail.prefab
+- Assets/Petromin Cars/X trail/Textures/Body Variation/Dark Olive (EAN).png
 - Assets/Petromin Cars/X trail/Textures/Body Variation/X-Trail_Black (G41).png
+- Assets/Petromin Cars/X trail/Textures/Body Variation/Palatial Ruby (NBF).png
 - Assets/Petromin Cars/X trail/Textures/Body Variation/X-Trail_White (QAB).png
 - Assets/Petromin Cars/X trail/Textures/Body Variation/X-Trail_Dark Brown (CAS).png
+- Assets/Petromin Cars/X trail/Textures/Body Variation/Blue Pearl (RAW).png
 - Assets/Petromin Cars/X trail/Textures/Body Variation/X-Trail_Gray (KAD).png
+- Assets/Petromin Cars/X trail/Textures/Body Variation/Solid Red (AX6).png
 Dependencies: []

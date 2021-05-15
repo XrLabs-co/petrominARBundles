@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3259327602
+CRC: 1554587373
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 367b3a2e0d266d10f8340d11f7c5d9ec
+    Hash: 8d57ce74a763a41f7e3fc0beed42078c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 204b0d2e9d34e2c7f5936022718f5a73
@@ -45,7 +45,9 @@ Assets:
 - Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Pathfinder_Blue (RBY).png
 - Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Pathfinder_Pearl White (QAB).png
 - Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Pathfinder_Black (G41).png
+- Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Scarlet Ember (NBL).png
 - Assets/Petromin Cars/Pathfinder/Prefab/Pathfinder.prefab
+- Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Dark Brown (CAS).png
 - Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Pathfinder_Gray (KAD).png
 - Assets/Petromin Cars/Pathfinder/Texture/Body Variation/Pathfinder_Silver (K23).png
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 116741473
+CRC: 1907346932
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e60b30c1915172ef8b6a909dbaac55b
+    Hash: 006aeb1a2c5325b3fd1f7977816df5fd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
@@ -41,9 +41,15 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Grey (KAD).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Super Black (KH3).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Cayenne Red (NAH).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/White (QAC).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Dark brown (CAQ).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Silver (K23).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_White (QAC).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Black (KH3).png
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Gun Metallic (KAD).png
 - Assets/Petromin Cars/Kicks/Prefab/Kicks.prefab
+- Assets/Petromin Cars/Kicks/Texture/Body Variation/Orange (EBB).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Deep Blue pearl (RAY).png
 Dependencies: []

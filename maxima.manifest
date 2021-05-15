@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3084464780
+CRC: 1520442042
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4651ff5190410768584f7dab7ea25af6
+    Hash: 35ce47c6ec0ec390b6ee19af60c66bf8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
@@ -42,8 +42,10 @@ ClassTypes:
 Assets:
 - Assets/Petromin Cars/Maxima/Textures/Body Variation/Maxima_Deep Blue Pearl (RAY).jpg
 - Assets/Petromin Cars/Maxima/Textures/Body Variation/Maxima_Black (KH3).jpg
+- Assets/Petromin Cars/Maxima/Textures/Body Variation/Sunset Drift Chromo Flair (EBL).png
 - Assets/Petromin Cars/Maxima/Textures/Body Variation/Maxima_White 3P (QAB).jpg
 - Assets/Petromin Cars/Maxima/Prefab/Maxima.prefab
+- Assets/Petromin Cars/Maxima/Textures/Body Variation/Carnelian Red (NBM).png
 - Assets/Petromin Cars/Maxima/Textures/Body Variation/Maxima_Gray (KAD).jpg
 - Assets/Petromin Cars/Maxima/Textures/Body Variation/Maxima_Silver Mettalic (K23).jpg
 Dependencies: []
