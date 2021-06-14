@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2882558163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aa3b7dd10cbfe77e4ea14f76016cc06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Petromin Cars/Z-Proto Android/Prefab/Z Proto.prefab
+Dependencies: []
